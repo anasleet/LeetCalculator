@@ -1,0 +1,10 @@
+C:\Users\anasl\source\repos\LeetCalculator\LeetCalculator\bin\Debug\LeetCalculator.exe.config
+C:\Users\anasl\source\repos\LeetCalculator\LeetCalculator\bin\Debug\LeetCalculator.exe
+C:\Users\anasl\source\repos\LeetCalculator\LeetCalculator\bin\Debug\LeetCalculator.pdb
+C:\Users\anasl\source\repos\LeetCalculator\LeetCalculator\obj\Debug\LeetCalculator.Form1.resources
+C:\Users\anasl\source\repos\LeetCalculator\LeetCalculator\obj\Debug\LeetCalculator.Properties.Resources.resources
+C:\Users\anasl\source\repos\LeetCalculator\LeetCalculator\obj\Debug\LeetCalculator.csproj.GenerateResource.cache
+C:\Users\anasl\source\repos\LeetCalculator\LeetCalculator\obj\Debug\LeetCalculator.csproj.CoreCompileInputs.cache
+C:\Users\anasl\source\repos\LeetCalculator\LeetCalculator\obj\Debug\LeetCalculator.exe
+C:\Users\anasl\source\repos\LeetCalculator\LeetCalculator\obj\Debug\LeetCalculator.pdb
+C:\Users\anasl\source\repos\LeetCalculator\LeetCalculator\obj\Debug\LeetCalculator.csprojAssemblyReference.cache
